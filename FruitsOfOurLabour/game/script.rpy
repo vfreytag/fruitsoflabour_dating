@@ -34,7 +34,7 @@ label start:
     # directory.
 
     show mae sad
-
+    show gala stock img at left
     # These display lines of dialogue.
 
     mf "I'm sad."
